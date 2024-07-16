@@ -1,5 +1,5 @@
 {
-  "name": "simple-calculator",
+  "name": "ar_simple-calculator",
   "version": "1.0.0",
   "description": "A Simple-Calculator with Typescript, Node.js and Inquirer",
   "main": "index.js",
@@ -8,7 +8,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Abdul Rehman",
   "license": "MIT",
   "dependencies": {
     "inquirer": "^9.2.23"
